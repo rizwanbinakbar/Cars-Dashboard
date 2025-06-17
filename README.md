@@ -13,9 +13,9 @@ This is a complete Power BI project with 3 page repots and a Dashboard that expl
 -  Dataset used
   
 - ![DashBoard](docs/DashBoard.png)
-- ![Expense Tooltip](docs/Page%201.png)
-- ![Expense Tooltip](docs/Page%202.png)
-- ![Expense Tooltip](docs/Page%203%20Fucntions.png)
+- ![Page 1](docs/Page%201.png)
+- ![Page 2](docs/Page%202.png)
+- ![Page 3+Features](docs/Page%203%20Functions.png)
 
 
 ## Tools and Technologies
