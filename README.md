@@ -9,7 +9,8 @@ This is a complete Power BI project with 3 page repots and a Dashboard that expl
 
 ## Project Files
 
--  Power BI report file (E-mail me if you want the source file & icons rizwanforbuissnes@gmail.com Happy to help 😊)
+-  Power BI report file
+-  (Reach out to me for the source file & icons rizwanforbuissnes@gmail.com Happy to help 😊)
 -  Dataset used
   
 - ![DashBoard](docs/DashBoard.png)
