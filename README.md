@@ -12,10 +12,10 @@ This is a complete Power BI project with 3 page repots and a Dashboard that expl
 -  Power BI report file (E-mail me if you want the source file & icons rizwanforbuissnes@gmail.com Happy to help 😊)
 -  Dataset used
   
-- ![DashBoard](docs/Full%20Dashboard.png)
-- ![Expense Tooltip](docs/Expense%20Tooltip.png)
-- ![Expense Tooltip](docs/Expense%20Tooltip.png)
-- ![Expense Tooltip](docs/Expense%20Tooltip.png)
+- ![DashBoard](docs/DashBoard.png)
+- ![Expense Tooltip](docs/Page%201.png)
+- ![Expense Tooltip](docs/Page%202.png)
+- ![Expense Tooltip](docs/Page%203%20Fucntions.png)
 
 
 ## Tools and Technologies
